@@ -1,0 +1,62 @@
+body{
+    margin: 10px 60px;
+    text-align: center;
+}
+
+header{
+    background-color: aliceblue;
+    margin: auto;
+    padding: 10px;
+}
+
+header h1 {
+    background-color: rgba(143, 52, 52, 0.492);
+}
+
+header img{
+    display: block;
+    margin: 10px auto;
+    padding: auto;
+    width: 30%;
+  }
+
+main {
+    background-color: rgb(247, 242, 237);
+    margin: auto;
+    padding: 10px;
+}
+
+main ol, ul{
+    text-align: left;
+}
+
+ol, ul {
+    font-size: 15px;
+   
+}
+
+/*clases*/
+.cabezera_inicial{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+.parrafo{
+    /*tamaño de letra*/
+    font-size: 20px;
+    /*color de letra*/
+    
+}
+
+footer{
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(57, 38, 38);
+    color: rgb(252, 252, 252);
+    
+}
+
+footer a{
+    color: rgb(112, 135, 155);
+}

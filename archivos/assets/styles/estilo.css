@@ -1,4 +1,33 @@
 body {
-    background-image: url('./assets/imagenes/02.jpg');
+    background-image: url(../imagenes/02.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /*deja el contenido de portada*/
+    background-size: cover;
+    margin: 10px 60px;
+    padding: auto;
     
   }
+
+main{
+  background-color: rgb(246, 246, 246);
+  margin: 10px;
+  padding: 10px 20px ;
+}
+
+h1{
+  background-color: rgb(110, 101, 88);
+  text-align: center;
+  color: rgb(255, 254, 254);
+  font-size: 50px;
+}
+
+  ol,ul,p {
+    font-size: 25px;
+  }
+
+img{
+    width: 250px;
+  }
+
+  
